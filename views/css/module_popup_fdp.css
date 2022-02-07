@@ -1,0 +1,11 @@
+#containerOfGift{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(120, 194, 120);
+    padding: 10px;
+    align-items: center;
+    color:black !important;
+    }
+    
+    
